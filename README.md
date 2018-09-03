@@ -1,5 +1,7 @@
 # frontend-ajax-examples
 
+Credit to Pamela Fox: https://gist.github.com/pamelafox/3926362
+
 Exercise: Nutrition Facts
 
     Create an empty webpage.
